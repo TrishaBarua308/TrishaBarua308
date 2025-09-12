@@ -1,3 +1,5 @@
+<img align="center" alt ="Coding" width=400px src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
 <h1 align="center">Hi 👋, I'm Trisha Barua</h1>
 <h4 align="left">I am currently pursuing a Bachelor's degree in Computer Science & Engineering at Northern University Bangladesh. I am passionate about programming, problem-solving & exploring new technologies. I always try to improve my skills by working on project and exploring innovative ideas.</h4>
 
