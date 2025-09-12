@@ -1,6 +1,11 @@
-<img align="center" alt ="Coding" width=400px src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<p align="center"><img align="center" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/></p>
 
-<h1 align="center">Hi 👋, I'm Trisha Barua</h1>
+<h1 align="center">
+  <samp>
+    Hi , I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Trisha Barua</a></b>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</samp>
+</h1>
+
 <h4 align="left">I am currently pursuing a Bachelor's degree in Computer Science & Engineering at Northern University Bangladesh. I am passionate about programming, problem-solving & exploring new technologies. I always try to improve my skills by working on project and exploring innovative ideas.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trishabarua308&label=Profile%20views&color=0e75b6&style=flat" alt="trishabarua308" /> </p>
@@ -10,6 +15,7 @@
 - 💬 Ask me about **C++, C, Java**
 
 - 📫 How to reach me **trishabarua308@gmail.com**
+- 💮 My hobbies **Reading Books, Listening Music & Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
