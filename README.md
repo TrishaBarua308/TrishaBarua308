@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <samp>
-    Hi , I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Trisha Barua</a></b>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Hi , I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Trisha Barua</a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </samp>
 </h1>
 
