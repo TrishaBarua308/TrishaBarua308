@@ -18,7 +18,7 @@
 - 💬 Ask me about **C++, C, Java, Python**
 
 - 📫 How to reach me **trishabarua308@gmail.com**
-- 💮 My hobbies **Reading Books, Listening Music & Travelling**
+- 💮 My hobbies **Listening Music, Reading Books  & Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
